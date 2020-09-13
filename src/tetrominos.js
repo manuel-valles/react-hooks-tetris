@@ -64,3 +64,5 @@ const randomTetromino = () => {
     tetrominos[Math.floor(Math.random() * tetrominos.length)];
   return TETROMINOS[randomLetter];
 };
+
+export { TETROMINOS, randomTetromino };
