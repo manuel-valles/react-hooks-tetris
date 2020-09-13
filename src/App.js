@@ -1,8 +1,9 @@
 import React from 'react';
+import Tetris from './components/Tetris';
 
 const App = () => (
   <div className="App">
-    <h1>Tetris is coming soon!</h1>
+    <Tetris />
   </div>
 );
 
