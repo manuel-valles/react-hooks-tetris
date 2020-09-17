@@ -15,7 +15,7 @@ import Display from './Display';
 import StartButton from './StartButton';
 
 const Tetris = () => {
-  const [dropTime, setDropTime] = useState(null);
+  // const [dropTime, setDropTime] = useState(null);
   const [gameOver, setGameOver] = useState(false);
 
   const [player, updatePlayerPos, resetPlayer] = usePlayer();
@@ -41,7 +41,7 @@ const Tetris = () => {
       if (player.pos.y < 1) {
         console.log('GAME OVER!!');
         setGameOver(true);
-        setDropTime(null);
+        // setDropTime(null);
       }
       updatePlayerPos({ x: 0, y: 0, collided: true });
     }
