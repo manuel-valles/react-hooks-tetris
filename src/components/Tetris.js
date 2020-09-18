@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import { isMobile } from 'react-device-detect';
 
 import { createStage, checkCollision } from '../gameHelpers';
 
@@ -120,6 +121,11 @@ const Tetris = () => {
           <StartButton callback={startGame} />
         </aside>
       </StyledTetris>
+      {!isMobile ? (
+        <Display
+          text={`Sorry! This version is only available for Desktop at the moment.`}
+        />
+      ) : null}
     </StyledTetrisWrapper>
   );
 };
