@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/react-hooks-tetris/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-hooks-tetris/static/js/main.ab90b137.chunk.js",
-    "main.js.map": "/react-hooks-tetris/static/js/main.ab90b137.chunk.js.map",
+    "main.js": "/react-hooks-tetris/static/js/main.90f4d8fb.chunk.js",
+    "main.js.map": "/react-hooks-tetris/static/js/main.90f4d8fb.chunk.js.map",
     "runtime-main.js": "/react-hooks-tetris/static/js/runtime-main.151af3f8.js",
     "runtime-main.js.map": "/react-hooks-tetris/static/js/runtime-main.151af3f8.js.map",
-    "static/js/2.a46f122a.chunk.js": "/react-hooks-tetris/static/js/2.a46f122a.chunk.js",
-    "static/js/2.a46f122a.chunk.js.map": "/react-hooks-tetris/static/js/2.a46f122a.chunk.js.map",
+    "static/js/2.124b36ec.chunk.js": "/react-hooks-tetris/static/js/2.124b36ec.chunk.js",
+    "static/js/2.124b36ec.chunk.js.map": "/react-hooks-tetris/static/js/2.124b36ec.chunk.js.map",
     "index.html": "/react-hooks-tetris/index.html",
-    "precache-manifest.a171fce799c9a63cc3f8e0f467a76421.js": "/react-hooks-tetris/precache-manifest.a171fce799c9a63cc3f8e0f467a76421.js",
+    "precache-manifest.ca5bdc8c2d3ea25e8afedd39350d6f24.js": "/react-hooks-tetris/precache-manifest.ca5bdc8c2d3ea25e8afedd39350d6f24.js",
     "service-worker.js": "/react-hooks-tetris/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/react-hooks-tetris/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.a46f122a.chunk.js.LICENSE.txt": "/react-hooks-tetris/static/js/2.a46f122a.chunk.js.LICENSE.txt",
+    "static/js/2.124b36ec.chunk.js.LICENSE.txt": "/react-hooks-tetris/static/js/2.124b36ec.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/react-hooks-tetris/static/media/background.2bb7a3d7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.151af3f8.js",
-    "static/js/2.a46f122a.chunk.js",
+    "static/js/2.124b36ec.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.ab90b137.chunk.js"
+    "static/js/main.90f4d8fb.chunk.js"
   ]
 }
