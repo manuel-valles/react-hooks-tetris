@@ -48,7 +48,7 @@ jobs:
 ```
 
 - For the variables:
-  - Personal access token: https://github.com/settings/tokens
+  - Personal access token (just 'repo' scope needed): https://github.com/settings/tokens
   - Secrets: https://github.com/manukempo/react-hooks-tetris/settings/secrets
 
 ## GitHub Pages
