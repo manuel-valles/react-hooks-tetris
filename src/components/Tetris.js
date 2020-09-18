@@ -121,7 +121,7 @@ const Tetris = () => {
           <StartButton callback={startGame} />
         </aside>
       </StyledTetris>
-      {!isMobile ? (
+      {isMobile ? (
         <Display
           text={`Sorry! This version is only available for Desktop at the moment.`}
         />
