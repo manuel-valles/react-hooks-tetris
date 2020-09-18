@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/react-hooks-tetris/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/react-hooks-tetris/static/js/main.44945a5e.chunk.js",
-    "main.js.map": "/react-hooks-tetris/static/js/main.44945a5e.chunk.js.map",
+    "main.js": "/react-hooks-tetris/static/js/main.7980fd2a.chunk.js",
+    "main.js.map": "/react-hooks-tetris/static/js/main.7980fd2a.chunk.js.map",
     "runtime-main.js": "/react-hooks-tetris/static/js/runtime-main.151af3f8.js",
     "runtime-main.js.map": "/react-hooks-tetris/static/js/runtime-main.151af3f8.js.map",
-    "static/js/2.124b36ec.chunk.js": "/react-hooks-tetris/static/js/2.124b36ec.chunk.js",
-    "static/js/2.124b36ec.chunk.js.map": "/react-hooks-tetris/static/js/2.124b36ec.chunk.js.map",
+    "static/js/2.3e278784.chunk.js": "/react-hooks-tetris/static/js/2.3e278784.chunk.js",
+    "static/js/2.3e278784.chunk.js.map": "/react-hooks-tetris/static/js/2.3e278784.chunk.js.map",
     "index.html": "/react-hooks-tetris/index.html",
-    "precache-manifest.cef40e11ba16167703f6475fb027374c.js": "/react-hooks-tetris/precache-manifest.cef40e11ba16167703f6475fb027374c.js",
+    "precache-manifest.a6c2bc898f32e53d137fad734ba41209.js": "/react-hooks-tetris/precache-manifest.a6c2bc898f32e53d137fad734ba41209.js",
     "service-worker.js": "/react-hooks-tetris/service-worker.js",
     "static/css/main.5ecd60fb.chunk.css.map": "/react-hooks-tetris/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.124b36ec.chunk.js.LICENSE.txt": "/react-hooks-tetris/static/js/2.124b36ec.chunk.js.LICENSE.txt",
-    "static/media/background.jpg": "/react-hooks-tetris/static/media/background.2bb7a3d7.jpg"
+    "static/js/2.3e278784.chunk.js.LICENSE.txt": "/react-hooks-tetris/static/js/2.3e278784.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.151af3f8.js",
-    "static/js/2.124b36ec.chunk.js",
+    "static/js/2.3e278784.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.44945a5e.chunk.js"
+    "static/js/main.7980fd2a.chunk.js"
   ]
 }
