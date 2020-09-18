@@ -13,15 +13,15 @@ const StyledTetrisWrapper = styled.div`
 const StyledTetris = styled.div`
   display: flex;
   align-items: flex-start;
-  padding: 40px;
+  padding: 30px;
   margin: 0 auto;
-  max-width: 900px;
+  max-width: 700px;
 
   aside {
     width: 100%;
-    max-width: 200px;
+    max-width: 100px;
     display: block;
-    padding: 0 20px;
+    padding: 0 10px;
   }
 `;
 
